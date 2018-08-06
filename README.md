@@ -1,7 +1,11 @@
 # vue-mail-front
 Welcome~~, 这是一个基于Vue2的邮件前端系统
 
-## 项目迁移说明
+项目预览地址：
+
+http://rulifun.cn/vue-mail
+
+### 项目迁移说明
 
 之前的`vue-mial-front`因为` git` 文件太大（>20m），猜测是之前 `gif` 文件也纳入了 `git` 管理（原谅以前撒比的我），第一次 `fetch` 或 `pull` 花费时间巨长，于是迁移到目前这个仓库了。
 
@@ -26,10 +30,6 @@ npm run dev
 ```
 npm run build:prod
 ```
-
-项目预览地址：
-
-http://rulifun.cn/vue-mail
 
 ### 邮件主要模块
 - 写信（支持附件、录音、文本编辑）
