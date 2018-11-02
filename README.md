@@ -51,15 +51,15 @@ npm run build:prod
 
 ### 效果图
 
-![dashboard&write-mail](http://pbhmcc1rw.bkt.clouddn.com/gif1.gif)
+![dashboard&write-mail](https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/gif1.gif)
 
-![mail-list](http://pbhmcc1rw.bkt.clouddn.com/gif2.gif)
+![mail-list](https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/gif2.gif)
 
-![mail-list2](http://pbhmcc1rw.bkt.clouddn.com/gif3.gif)
+![mail-list2](https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/gif3.gif)
 
-![mail-label](http://pbhmcc1rw.bkt.clouddn.com/gif4.gif)
+![mail-label](https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/gif4.gif)
 
-![mail-contact](http://pbhmcc1rw.bkt.clouddn.com/gif5.gif)
+![mail-contact](https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/gif5.gif)
 
 PS: 本项目所有的数据都是模拟的，没有与后端做对接，交互上的一些细节可能也没考虑到。
 

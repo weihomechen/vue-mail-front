@@ -2,7 +2,7 @@
   <div style="background:#f0f2f5;margin-top: -20px;">
     <div class="wscn-http404">
       <div class="pic-404">
-        <img class="pic-404__parent" src="http://pbhmcc1rw.bkt.clouddn.com/404.png" alt="404">
+        <img class="pic-404__parent" src="https://rulifun.oss-cn-hangzhou.aliyuncs.com/vue-mail/404.png" alt="404">
         <img class="pic-404__child left" src="../../assets/404_cloud.png" alt="404">
         <img class="pic-404__child mid" src="../../assets/404_cloud.png" alt="404">
         <img class="pic-404__child right" src="../../assets/404_cloud.png" alt="404">
